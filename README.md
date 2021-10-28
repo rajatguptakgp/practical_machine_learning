@@ -10,3 +10,4 @@ The following algorithms are implemented till date:
 4. Multi-Layer Perceptron (MLP) in Keras
 5. Multi-Layer Perceptron (MLP) in PyTorch
 6. t-Distributed Stochastic Neighbor Embedding (t-SNE)
+7. File handling (.JSON/.TXT/.PNG/.H5/.PARQUET/.NPY/.PKL)
