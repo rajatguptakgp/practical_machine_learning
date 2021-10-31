@@ -3,7 +3,7 @@
 Implementation of some machine learning algorithms
 ***
 
-The following algorithms are implemented till date:
+The following algorithms are implemented to date:
 1. Gaussian Mixture Models
 2. Density-based spatial clustering of applications with noise (DBSCAN)
 3. K-Means Clustering
