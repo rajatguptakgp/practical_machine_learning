@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8">
+  <title>ML API</title>
+  <style>
+  h1 {text-align: center;}
+  h4 {text-align: center;}
+  </style>  
+</head>
+
+<body>
+ <div class="login">
+	<h1>Sentiment Analysis</h1>
+
+     <!-- Main Input For Receiving Query to our ML -->
+    <form action="{{ url_for('predict')}}"method="post">
+   	<h4><b>{{ prediction_text }}</b></h4>
+  	<br>
+	  Sentence:&emsp;<input type="text" name="sentence" step="any" required="required"/>
+	<button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
+    </form>
+ </div>
+</body>
+</html>
