@@ -13,4 +13,5 @@ The following algorithms are implemented till date:
 7. File handling (.JSON/.TXT/.PNG/.H5/.PARQUET/.NPY/.PKL)
 8. Web Scraping using Beautiful Soup in Python
 9. Saving/loading/converting deep learning models - PyTorch, Keras, ONNX
-10. Monte Carlo Simulations
+10. Serving Sentiment Analysis Model using Flask API
+11. Monte Carlo Simulations
