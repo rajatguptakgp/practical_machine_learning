@@ -14,4 +14,5 @@ The following algorithms are implemented to date:
 8. Web Scraping using Beautiful Soup in Python
 9. Saving/loading/converting deep learning models - PyTorch, Keras, ONNX
 10. Serving Sentiment Analysis Model using Flask API
-11. Monte Carlo Simulations
+11. Camera Calibration using OpenCV
+12. Monte Carlo Simulations
