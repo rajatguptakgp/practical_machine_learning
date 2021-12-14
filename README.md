@@ -17,4 +17,5 @@ The following algorithms/use-cases are implemented to date:
 11. Camera Calibration using OpenCV
 12. Plotting Decision Boundaries
 13. Monte Carlo Simulations
-14. Understanding Non-Maximal Suppression (NMS) in Image Processing 
+14. Understanding Non-Maximal Suppression (NMS) in Image Processing
+15. Understanding Kalman Filters 
