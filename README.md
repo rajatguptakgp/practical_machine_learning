@@ -19,3 +19,4 @@ The following algorithms/use-cases are implemented to date:
 13. Monte Carlo Simulations
 14. Understanding Non-Maximal Suppression (NMS) in Image Processing
 15. Understanding Kalman Filters 
+16. Mixed Precision Training using TPU (Google Colab)
