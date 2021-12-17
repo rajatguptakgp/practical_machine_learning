@@ -12,7 +12,7 @@ The following algorithms/use-cases are implemented to date:
 6. t-Distributed Stochastic Neighbor Embedding (t-SNE)
 7. File handling (.JSON/.TXT/.PNG/.H5/.PARQUET/.NPY/.PKL)
 8. Web Scraping using Beautiful Soup in Python
-9. Saving/loading/converting deep learning models - PyTorch, Keras, ONNX
+9. Saving/loading/converting deep learning models - PyTorch, Keras, ONNX, TFLite
 10. Serving Sentiment Analysis Model using Flask API
 11. Camera Calibration using OpenCV
 12. Plotting Decision Boundaries
@@ -20,3 +20,4 @@ The following algorithms/use-cases are implemented to date:
 14. Understanding Non-Maximal Suppression (NMS) in Image Processing
 15. Understanding Kalman Filters 
 16. Mixed Precision Training using TPU (Google Colab)
+17. Understanding Self-attention in NLP
