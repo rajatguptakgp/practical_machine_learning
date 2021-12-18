@@ -21,3 +21,4 @@ The following algorithms/use-cases are implemented to date:
 15. Understanding Kalman Filters 
 16. Mixed Precision Training using TPU (Google Colab)
 17. Understanding Self-attention in NLP
+18. Building Knowledge Graph on MovieLens 1M Dataset with Networkx
