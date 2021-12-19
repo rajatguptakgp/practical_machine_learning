@@ -22,3 +22,4 @@ The following algorithms/use-cases are implemented to date:
 16. Mixed Precision Training using TPU (Google Colab)
 17. Understanding Self-attention in NLP
 18. Building Knowledge Graph on MovieLens 1M Dataset with Networkx
+19. Implementing PageRank on famous social networks with Networkx
