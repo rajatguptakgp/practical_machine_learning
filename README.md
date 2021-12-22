@@ -24,3 +24,4 @@ The following algorithms/use-cases are implemented to date:
 18. Building Knowledge Graph on MovieLens 1M Dataset with Networkx
 19. Implementing PageRank algorithm on famous social networks
 20. Building recommendation system on ML1M with PageRank 
+21. Implementing [RecWalk](https://dl.acm.org/doi/10.1145/3289600.3291016)
