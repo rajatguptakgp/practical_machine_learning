@@ -21,7 +21,7 @@ The following algorithms/use-cases are implemented to date:
 15. Understanding Kalman Filters 
 16. Mixed Precision Training using TPU (Google Colab)
 17. Understanding Self-attention in NLP
-18. Building Knowledge Graph on MovieLens 1M Dataset with Networkx
+18. Building Knowledge Graph on MovieLens 1M (ML1M) Dataset with Networkx
 19. Implementing PageRank algorithm on famous social networks
 20. Building recommendation system on ML1M with PageRank 
-21. Implementing [RecWalk](https://dl.acm.org/doi/10.1145/3289600.3291016)
+21. Implementing [RecWalk](https://dl.acm.org/doi/10.1145/3289600.3291016) on ML1M
