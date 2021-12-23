@@ -25,3 +25,4 @@ The following algorithms/use-cases are implemented to date:
 19. Implementing [PageRank](https://snap.stanford.edu/class/cs224w-readings/Brin98Anatomy.pdf) algorithm on famous social networks
 20. Building recommendation system on ML1M with PageRank 
 21. Implementing [RecWalk](https://dl.acm.org/doi/10.1145/3289600.3291016) on ML1M
+22. Understanding various optimizers - GD, SGD, Momentum, AdaGrad, RMSProp, Adam
