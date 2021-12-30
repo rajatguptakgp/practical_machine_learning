@@ -28,4 +28,4 @@ The following algorithms/use-cases are implemented to date:
 22. Understanding various optimizers - GD, SGD, Momentum, AdaGrad, RMSProp, Adam
 23. GLoVe implementation from scratch: [Paper](https://nlp.stanford.edu/pubs/glove.pdf)
 24. Sparse Latent Semantic Analysis (LSA): [Paper](https://www.cs.cmu.edu/~jgc/publication/PublicationPDF/Sparse_Latent_Semantic_Analysis.pdf)
-25. Who should host the party? - Geometric Median + LLN
+25. Who should host the party? - Geometric Median + Law of Large Numbers (LLN)
