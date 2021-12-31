@@ -29,3 +29,5 @@ The following algorithms/use-cases are implemented to date:
 23. GLoVe implementation from scratch: [Paper](https://nlp.stanford.edu/pubs/glove.pdf)
 24. Sparse Latent Semantic Analysis (LSA): [Paper](https://www.cs.cmu.edu/~jgc/publication/PublicationPDF/Sparse_Latent_Semantic_Analysis.pdf)
 25. Who should host the party? - Geometric Median + Law of Large Numbers (LLN)
+26. Latent Dirichlet Allocation (LDA) - Estimating topic distributions with Gibbs Sampling (Part 1/2) [Video](https://www.youtube.com/watch?v=_WCwOICQhZI)
+27. Latent Dirichlet Allocation (LDA) and its applications - Probabilistic generative model (Part 2/2) [Video](https://www.youtube.com/watch?v=YYQmego-l1E)
