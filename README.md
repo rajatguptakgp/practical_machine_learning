@@ -31,3 +31,4 @@ The following algorithms/use-cases are implemented to date:
 25. Who should host the party? - Geometric Median + Law of Large Numbers (LLN)
 26. Latent Dirichlet Allocation (LDA) - Estimating topic distributions with Gibbs Sampling (Part 1/2) [Video](https://www.youtube.com/watch?v=_WCwOICQhZI)
 27. Latent Dirichlet Allocation (LDA) and its applications - Probabilistic generative model (Part 2/2) [Video](https://www.youtube.com/watch?v=YYQmego-l1E)
+28. Word Sense Disambiguation (Part 1/2) [Video](https://www.youtube.com/watch?v=O0s0UAEYQn0)
