@@ -5,7 +5,7 @@ Implementation of some machine learning algorithms
 
 The following algorithms/use-cases are implemented to date:
 1. Gaussian Mixture Models
-2. Density-based spatial clustering of applications with noise (DBSCAN)
+2. Who should host the party? - Geometric Median + Law of Large Numbers (LLN)
 3. K-Means Clustering
 4. Multi-Layer Perceptron (MLP) in Keras
 5. Multi-Layer Perceptron (MLP) in PyTorch
@@ -28,7 +28,7 @@ The following algorithms/use-cases are implemented to date:
 22. Understanding various optimizers - GD, SGD, Momentum, AdaGrad, RMSProp, Adam
 23. GLoVe implementation from scratch: [Paper](https://nlp.stanford.edu/pubs/glove.pdf)
 24. Sparse Latent Semantic Analysis (LSA): [Paper](https://www.cs.cmu.edu/~jgc/publication/PublicationPDF/Sparse_Latent_Semantic_Analysis.pdf)
-25. Who should host the party? - Geometric Median + Law of Large Numbers (LLN)
-26. Latent Dirichlet Allocation (LDA) - Estimating topic distributions with Gibbs Sampling (Part 1/2) [Video](https://www.youtube.com/watch?v=_WCwOICQhZI)
-27. Latent Dirichlet Allocation (LDA) and its applications - Probabilistic generative model (Part 2/2) [Video](https://www.youtube.com/watch?v=YYQmego-l1E)
-28. Word Sense Disambiguation - Knowledge based approaches - Lesk, Walker, Decision List algorithm (Part 1/2) [Video](https://www.youtube.com/watch?v=O0s0UAEYQn0)
+25. Latent Dirichlet Allocation (LDA) - Estimating topic distributions with Gibbs Sampling (Part 1/2) [Video](https://www.youtube.com/watch?v=_WCwOICQhZI)
+26. Latent Dirichlet Allocation (LDA) and its applications - Probabilistic generative model (Part 2/2) [Video](https://www.youtube.com/watch?v=YYQmego-l1E)
+27. Word Sense Disambiguation - Knowledge based approaches - Lesk, Walker, Random Walk algorithm (Part 1/2) [Video](https://www.youtube.com/watch?v=O0s0UAEYQn0)
+28. Word Sense Disambiguation - ML based approaches - Naive Bayes, Yarowsky's, HyperLex (Part 2/2) [Video](https://www.youtube.com/watch?v=Jr0uEViJtzU)
