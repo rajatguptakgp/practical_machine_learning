@@ -30,5 +30,5 @@ The following algorithms/use-cases are implemented to date:
 24. Sparse Latent Semantic Analysis (LSA): [Paper](https://www.cs.cmu.edu/~jgc/publication/PublicationPDF/Sparse_Latent_Semantic_Analysis.pdf)
 25. Latent Dirichlet Allocation (LDA) - Estimating topic distributions with Gibbs Sampling (Part 1/2) [Video](https://www.youtube.com/watch?v=_WCwOICQhZI)
 26. Latent Dirichlet Allocation (LDA) and its applications - Probabilistic generative model (Part 2/2) [Video](https://www.youtube.com/watch?v=YYQmego-l1E)
-27. Word Sense Disambiguation - Knowledge based approaches - Lesk, Walker, Random Walk algorithm (Part 1/2) [Video](https://www.youtube.com/watch?v=O0s0UAEYQn0)
-28. Word Sense Disambiguation - ML based approaches - Naive Bayes, Yarowsky's, HyperLex (Part 2/2) [Video](https://www.youtube.com/watch?v=Jr0uEViJtzU)
+27. Word Sense Disambiguation - Knowledge based approaches - Lesk, Walker, Random Walk (Part 1/2) [Video](https://www.youtube.com/watch?v=O0s0UAEYQn0)
+28. Word Sense Disambiguation - ML based approaches - Decision List, Yarowsky's, HyperLex (Part 2/2) [Video](https://www.youtube.com/watch?v=Jr0uEViJtzU)
