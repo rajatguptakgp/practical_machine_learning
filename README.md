@@ -32,3 +32,4 @@ The following algorithms/use-cases are implemented to date:
 26. Latent Dirichlet Allocation (LDA) and its applications - Probabilistic generative model (Part 2/2) [Video](https://www.youtube.com/watch?v=YYQmego-l1E)
 27. Word Sense Disambiguation - Knowledge based approaches - Lesk, Walker, Random Walk (Part 1/2) [Video](https://www.youtube.com/watch?v=O0s0UAEYQn0)
 28. Word Sense Disambiguation - ML based approaches - Decision List, Yarowsky's, HyperLex (Part 2/2) [Video](https://www.youtube.com/watch?v=Jr0uEViJtzU)
+29. Projected Gradient Descent - Gradient Descent with constraints
