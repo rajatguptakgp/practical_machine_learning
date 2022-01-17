@@ -34,3 +34,5 @@ The following algorithms/use-cases are implemented to date:
 28. Word Sense Disambiguation - ML based approaches - Decision List, Yarowsky's, HyperLex (Part 2/2) [Video](https://www.youtube.com/watch?v=Jr0uEViJtzU)
 29. Projected Gradient Descent - Gradient Descent with constraints
 30. Support Vector Machines (SVM) from scratch
+31. Optimization beyond Gradient Descent - Linear SVM, Logistic Regression, Non-Negative OLS Regression
+32. Neural Networks - Building MLP from scratch
