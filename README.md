@@ -36,3 +36,5 @@ The following algorithms/use-cases are implemented to date:
 30. Support Vector Machines (SVM) from scratch
 31. Optimization beyond Gradient Descent - Linear SVM, Logistic Regression, Non-Negative OLS Regression
 32. Neural Networks - Building MLP from scratch
+33. AutoGluon - AutoML
+34. RNN from scratch [Video](https://www.youtube.com/watch?v=ogZi5oIo4fI)
