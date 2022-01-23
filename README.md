@@ -5,7 +5,7 @@ Implementation of some machine learning algorithms
 
 The following algorithms/use-cases are implemented to date:
 1. Gaussian Mixture Models
-2. Who should host the party? - Geometric Median + Law of Large Numbers (LLN)
+2. Who should host the party? - Geometric Median
 3. K-Means Clustering
 4. Multi-Layer Perceptron (MLP) in Keras
 5. Multi-Layer Perceptron (MLP) in PyTorch
@@ -38,3 +38,5 @@ The following algorithms/use-cases are implemented to date:
 32. Neural Networks - Building MLP from scratch
 33. AutoGluon - AutoML
 34. RNN from scratch [Video](https://www.youtube.com/watch?v=ogZi5oIo4fI)
+35. Matrix Factorization based Collaborative Filtering using Gradient Descent
+36. Understanding statistical concepts - CDF, Sampling, Law of Large Numbers
