@@ -6,7 +6,7 @@ Implementation of some machine learning algorithms
 The following algorithms/use-cases are implemented to date:
 1. Gaussian Mixture Models
 2. Who should host the party? - Geometric Median
-3. K-Means Clustering
+3. Evaluating K-Means Clustering
 4. Multi-Layer Perceptron (MLP) in Keras
 5. Multi-Layer Perceptron (MLP) in PyTorch
 6. t-Distributed Stochastic Neighbor Embedding (t-SNE)
