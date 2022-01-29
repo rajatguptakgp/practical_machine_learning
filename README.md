@@ -14,7 +14,7 @@ The following algorithms/use-cases are implemented to date:
 8. Web Scraping using Beautiful Soup in Python
 9. Saving/loading/converting deep learning models - PyTorch, Keras, ONNX, TFLite
 10. Serving Sentiment Analysis Model using Flask API
-11. Camera Calibration using OpenCV
+11. Understanding statistical concepts - CDF, Sampling, Law of Large Numbers
 12. Plotting Decision Boundaries
 13. Monte Carlo Simulations
 14. Understanding Non-Maximal Suppression (NMS) in Image Processing
@@ -39,4 +39,3 @@ The following algorithms/use-cases are implemented to date:
 33. AutoGluon - AutoML
 34. RNN from scratch [Video](https://www.youtube.com/watch?v=ogZi5oIo4fI)
 35. Matrix Factorization based Collaborative Filtering using Gradient Descent
-36. Understanding statistical concepts - CDF, Sampling, Law of Large Numbers
